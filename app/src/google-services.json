@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857671053036",
+    "firebase_url": "https://fit3164-women-safety-in-mel-default-rtdb.firebaseio.com",
+    "project_id": "fit3164-women-safety-in-mel",
+    "storage_bucket": "fit3164-women-safety-in-mel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857671053036:android:dacb3dcfd039edf060bfc9",
+        "android_client_info": {
+          "package_name": "edu.monash.fit3164.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857671053036-p1bvf175jsvi57r6c3eo0jloqavlkt0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwKoo9UUVfPt72SbiNl5SN_h6dlWTCsJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857671053036-p1bvf175jsvi57r6c3eo0jloqavlkt0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
